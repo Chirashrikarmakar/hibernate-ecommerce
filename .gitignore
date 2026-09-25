@@ -38,3 +38,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Local Hibernate configuration containing database credentials
+src/main/resources/hibernate.cfg.xml
